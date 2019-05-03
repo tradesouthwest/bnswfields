@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Codeablex\n"
+"POT-Creation-Date: 2018-10-27 19:31-0700\n"
+"PO-Revision-Date: 2018-10-27 19:32-0700\n"
+"Last-Translator: Tradesouthwest <tradesouthwest@gmail.com>\n"
+"Language-Team: Tradesouthwest <tradesouthwest@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_x;_n;_esc_html_e;"
+"__esc_html;_esc_attr_e;__esc_attr\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/codeablex-woocheckout.php:28
+msgid "Select an answer please"
+msgstr ""
+
+#: inc/codeablex-woocheckout.php:29
+msgid "YES"
+msgstr ""
+
+#: inc/codeablex-woocheckout.php:30
+msgid "NO"
+msgstr ""
+
+#: inc/codeablex-woocheckout.php:44
+msgid "Please check agree notice."
+msgstr ""
+
+#: inc/codeablex-cart-handler.php:51
+msgid "Referral ID"
+msgstr ""
+
+#: inc/codeablex-cart-handler.php:98 inc/codeablex-referral-discount.php:32
+msgid "Referral Discount"
+msgstr ""
+
+#: inc/codeablex-membership.php:23
+msgid "Auto Renewal"
+msgstr ""
+
+#: inc/codeablex-membership.php:141
+msgid "Updated Renewal Agreement"
+msgstr ""
+
+#: inc/codeablex-settings.php:61
+msgid "Enable Agree on Checkout Page"
+msgstr ""
+
+#: inc/codeablex-settings.php:68
+msgid "Verbage for renewal select label."
+msgstr ""
+
+#: inc/codeablex-settings.php:75
+msgid "Verbage for referral cart message."
+msgstr ""
+
+#: inc/codeablex-referral-discount.php:94
+msgid "Referrals"
+msgstr ""
+
+#: inc/codeablex-referral-discount.php:97
+msgid "Number of: "
+msgstr ""
+
+#: inc/codeablex-checkout-order.php:23
+msgid "Referrer"
+msgstr ""

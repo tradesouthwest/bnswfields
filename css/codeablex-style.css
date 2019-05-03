@@ -1,0 +1,77 @@
+[class^="codeablex-"] {
+    box-sizing: border-box;
+    }
+    .codeablex-clearfix:before,
+    .codeablex-clearfix:after {
+        content: " ";
+        clear: both;
+    }
+    .codeablex-clearfix:after {
+    display: table;
+    }
+    .codeablex-inline {
+        width: 100%;
+        float: left;
+        position: relative;
+        top: -1.75em;
+    }
+    .codeablex-inline label {
+        position: relative;
+    left: 4em;
+    top: -2.5em;
+    }
+    #codeablex-form > .inner-form {
+        margin-top: 1em;
+        display: block;
+        width: 100%;
+        padding:15px;
+    }
+    #codeablex-form > .inner-form .req{
+        color:red;
+        position:relative;
+        top:-.67em;
+    }
+    .codeablex-agree_wrap{
+        width: 100%;
+        min-height: 40px;
+        border: thin solid #ddd;
+        border-radius: 4px;
+        padding: 15px;
+        position: relative;
+        top: 1em;
+        box-shadow: 0 1px 1px 1.5px #ab4;
+    }
+    #codeablex_checkout_field{
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+    #codeablex_checkout_field abbr.required{
+        color: red;
+    }
+    #referralDiv.referral_code {
+        display: inline-block;
+position: relative;
+color: #fff;
+font-family: 'Open Sans', sans-serif;
+font-size: 16px;
+font-weight: normal;
+font-style: italic;
+letter-spacing: normal;
+line-height: 1;
+margin: 0px;
+padding: 1px 25px 16px 25px;
+border-radius: 200px;
+-webkit-border-radius: 200px;
+border: 1px solid #0387dd;
+background-color: #33a7ff;
+-webkit-appearance: none;
+text-decoration: none;
+overflow: hidden;
+text-transform: uppercase;
+    }
+    @media screen and (max-width: 767px){
+        #codeablex_checkout_field.codeablex-block .woocommerce-input-wrapper{
+            width: 100%;
+        }
+    }

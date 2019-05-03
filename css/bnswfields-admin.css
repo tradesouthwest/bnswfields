@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+[class^="bnswfields-"] {
+    box-sizing: inherit;
+}
+.vrtclclearfix:before,
+    .vrtclclearfix:after {
+    content: " ";
+    clear: both;
+    }
+    .bnswfieldsclearfix:after {
+        display: table;
+        width: 100%;
+        height: 1px;
+        padding: 15px 0;
+        }
+.bnswfields-block {
+    display: block;
+}
+.bnswfields-hidden{
+    display: none;
+    visibility: hidden;
+}
+
+.bnswfields-main {
+    margin: 0 auto;
+    width: 100%;
+    position: relative;
+}

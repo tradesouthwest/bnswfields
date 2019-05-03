@@ -1,0 +1,4 @@
+#wpbody-content > div.wrap > div.notice.notice-error,
+#mainform > div.notice.notice-error,.js-wc-plugin-framework-admin-notice,
+.js-wc-memberships-admin-notice-placeholder,
+.notice.notice-error{display:none!important;}
